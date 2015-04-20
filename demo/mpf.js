@@ -1,4 +1,5 @@
 //simple mobile page framework
+// cool 看看你能不能合并进去
 
 (function ( $ ) {
 	
